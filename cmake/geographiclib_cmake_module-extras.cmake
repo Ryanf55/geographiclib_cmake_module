@@ -1,5 +1,4 @@
 include(CMakeFindDependencyMacro)
 include(${CMAKE_CURRENT_LIST_DIR}/FixGeographiclibModulePath.cmake)
-message(STATUS "Module Path: ${CMAKE_MODULE_PATH}")
 find_dependency(GeographicLib)
 include(${CMAKE_CURRENT_LIST_DIR}/AddGeographiclibTarget.cmake)

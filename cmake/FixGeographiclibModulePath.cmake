@@ -1,5 +1,4 @@
 if(CMAKE_SYSTEM_NAME STREQUAL Linux)
     list(APPEND CMAKE_MODULE_PATH "/usr/share/cmake/geographiclib")
-    message(STATUS "Adding to CMAKE_MODULE_PATH..")
     list(REMOVE_DUPLICATES ${CMAKE_MODULE_PATH})
 endif()
