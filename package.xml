@@ -6,7 +6,7 @@
  <name>geographiclib_cmake_module</name>
  <version>0.0.0</version>
  <description>Expose CMake targets from older geographiclib libraries for Ubuntu Jammy</description>
- <maintainer email="25047695+Ryanf55@users.noreply.github.co">Ryan Friedman</maintainer>
+ <maintainer email="25047695+Ryanf55@users.noreply.github.com">Ryan Friedman</maintainer>
  <license>MIT</license>
 
  <buildtool_depend>ament_cmake</buildtool_depend>
