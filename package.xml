@@ -4,7 +4,7 @@
    schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
  <name>geographiclib_cmake_module</name>
- <version>0.0.0</version>
+ <version>0.0.1</version>
  <description>Expose CMake targets from older geographiclib libraries for Ubuntu Jammy</description>
  <maintainer email="25047695+Ryanf55@users.noreply.github.com">Ryan Friedman</maintainer>
  <license>MIT</license>
